@@ -1,5 +1,9 @@
 # Diablo II: Resurrected Sprite Converter
 
+##### `Version:` 1.0.0.1
+
+# 
+
 ### Converts Diablo 2: Resurrected Sprite (*.sprite) files to supported image types (PNG, JPG, GIF, or BMP).
 
 * Sprite Conversion: Convert selected sprites (supports multiple selection).
@@ -13,8 +17,17 @@
   
 ### Requirements
 
+* Windows (7 or later)
 * .NET Framework 4.7.2
 
-![alt text](./Images/d2rspriteconverter.png)
+### Screenshots
 
-![alt text](./Images/d2rspriteconverter-settings.png)
+![alt text](./Images/d2rspriteconverter-001.png)
+
+![alt text](./Images/d2rspriteconverter-002.png)
+
+![alt text](./Images/d2rspriteconverter-003.png)
+
+### Remarks/Disclaimers
+
+*D2R Sprite files are owned by Activision Blizzard, Inc., use this software at your own risk.*
