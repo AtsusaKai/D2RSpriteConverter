@@ -11,6 +11,9 @@
   * Use Custom Output Path: If enabled, converted images are saved to the specified custom path. Otherwise, images are saved relative to the converted .sprite file.
   * Copy Folder Structure: (Batch Conversion Only!) If enabled, re-creates the folder stucture relative to the converted sprites to the custom output path.
   
+### Requirements
+
+* .NET Framework 4.7.2
 
 ![alt text](./Images/d2rspriteconverter.png)
 
