@@ -1,6 +1,6 @@
 # Diablo II: Resurrected Sprite Converter
 
-##### `Version:` 1.0.0.2 -- [Download](https://github.com/AtsusaKai/D2RSpriteConverter/)
+##### `Version:` 1.0.0.2 -- [Download](https://github.com/AtsusaKai/D2RSpriteConverter/releases/download/v1.0.0.2/D2RSpriteConverter-v1.0.0.2.zip)
 
 # 
 
