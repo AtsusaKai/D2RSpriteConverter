@@ -2,7 +2,6 @@
 
 ##### `Version:` 1.0.0.2 -- [Download](https://github.com/AtsusaKai/D2RSpriteConverter/releases/download/v1.0.0.2/D2RSpriteConverter-v1.0.0.2.zip)
 
-# 
 
 ### Converts Diablo 2: Resurrected Sprite (*.sprite) files to supported image types (PNG, JPG, GIF, or BMP).
 
