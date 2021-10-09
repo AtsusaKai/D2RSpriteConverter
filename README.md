@@ -6,8 +6,8 @@
 
 ### Converts Diablo 2: Resurrected Sprite (*.sprite) files to supported image types (PNG, JPG, GIF, or BMP).
 
-* Sprite Conversion: Convert selected sprites (supports multiple selection).
-* Batch Conversion: Convert sprites in the selected directory recursively.
+* **Sprite Conversion**: Convert selected sprites (supports multiple selection).
+* **Batch Conversion**: Convert sprites in the selected directory recursively.
 * Settings:
   * Image Type: The format of the output image (determines the file extension as well).
   * Background Color: (For non-PNG image) Replaces transparency with a solid background color.
@@ -18,7 +18,7 @@
 ### Requirements
 
 * Windows (7 or later)
-* .NET Framework 4.7.2
+* .NET Framework 4.7.2 or later
 
 ### Screenshots
 
